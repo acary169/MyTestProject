@@ -1,5 +1,6 @@
 package com.examples.java;
 
+
 public class Beer {
 
     public static void main(String[] args){
@@ -12,6 +13,6 @@ public class Beer {
             ale--;
             System.out.println(ale + " Bottles of beer");
         }
-        System.out.println("the beer is gone");
+        System.out.println("the beer is gone, Buy more");
     }
 }
